@@ -3,6 +3,8 @@ import pandas
 import random
 import smtplib
 
+#first go to your google account and generate app password for python then only it will send mail to the mail provided
+
 EMAIL = 'deepam@gmail.com'   #use your own email
 PASSWORD = 'deepam'
 
